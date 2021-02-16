@@ -5,6 +5,7 @@ author:     Zoheb Aziz
 categories: Projects
 ---
 ![Basic](/assets/BPS.png)
+
 <!--excerpt-->
 
 ## About Pyramid Solitaire
