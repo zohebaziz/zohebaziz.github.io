@@ -37,6 +37,6 @@ I successfully ran my first program.
 **GitHub**:\
 <a href="https://github.com/zohebaziz">https://github.com/zohebaziz</a>\
 \
-**Linkdin**:\
+**Linkedin**:\
 <a href="https://www.linkedin.com/in/zoheb-aziz-10a768172/">
 https://www.linkedin.com/in/zoheb-aziz-10a768172/</a>
