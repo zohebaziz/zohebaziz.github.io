@@ -11,8 +11,8 @@ grew up in Grapevine, Texas.
 My main hobby revolves around watching and playing various sports. I love to
 watch hockey and my favorite team is the Dallas Stars. Pre-covid I would often
 go to the park and partake in pickup soccer and pickup volleyball games for
-fun on weekends. I also enjoy general fitness, I regularly go to the gym around
-I enjoy weightlifting recreationally.  
+fun on weekends. I also enjoy weightlifting, I have been regularly going to the
+gym for about a year now.\
 A new interest I picked up recently is playing the piano. I have been teaching
 myself to play since earlier last year and I have even got a few beginner
 songs down. I spend a lot of my free time learning new classical and contemporary
