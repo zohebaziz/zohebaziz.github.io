@@ -4,7 +4,7 @@ title:      Pyramid Solitaire
 author:     Zoheb Aziz
 categories: Projects
 ---
-![Basic Pyramid Solitaire](/assets/bps.png)
+![Basic Pyramid Solitaire](/assets/BPS.png)
 
 <!--excerpt-->
 
@@ -36,7 +36,7 @@ than the standard 52 and there are now three 'peaks' to the pyramid rather than 
 one. This spinoff game mode allows for some variation in the classic display of
 the game as well as a tougher variation for pyramid solitaire veterans.\
 \
-![Multipyramid Solitaire](/assets/mps.png)
+![Multipyramid Solitaire](/assets/MPS.png)
 ## Creation
 Pyramid Solitaire was created using JAVA in the Intellij IDE. I used the Model-
 View-Controller design pattern as the mane outline for this project. The Basic
