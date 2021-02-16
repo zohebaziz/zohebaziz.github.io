@@ -1,13 +1,14 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Zoheb Aziz
+email:       aziz.zo@northeastern.edu
+author:      Zoheb Aziz
+description: "Personal Website"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - resume.md
  - contact.html
 
 # Google services
@@ -18,6 +19,9 @@ google_analytics:
 google_tag_manager:
 # Bing services
 bing_verification:
+
+#excerpt_separator
+excerpt_separator: "<!--excerpt-->"
 
 # Optional features
 animated:             false
@@ -47,7 +51,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: zohebaziz
 reddit_username:
 bitbucket_username:
 stackoverflow_id:

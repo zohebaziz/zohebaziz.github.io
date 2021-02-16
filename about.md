@@ -1,94 +1,42 @@
 ---
-layout: page
-title: About Pixyll
-permalink: /about/
-tags: about
+layout:     page
+title:      About Me
+permalink:  /about/
 ---
-
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
-
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+## Introduction
+Hi! My name is Zoheb Aziz. I am second year Computer Science and Mathematics
+major at Northeastern University. I was born in Long Island, New York and I
+grew up in Grapevine, Texas.
+## Hobbies, Interests and Activities
+My main hobby revolves around watching and playing various sports. I love to
+watch hockey and my favorite team is the Dallas Stars. Pre-covid I would often
+go to the park and partake in pickup soccer and pickup volleyball games for
+fun on weekends. I also enjoy general fitness, I regularly go to the gym around
+I enjoy recreationally weightlifting.  
+A new interest I picked up recently is playing the piano. I have been teaching
+myself to play since earlier last year and I have even got a few beginner
+songs down. I spend a lot of my free time learning new classical and contemporary
+songs on the keyboard in my room.
+## Software Background
+I have been a "STEM-minded" individual for as long as I can remember. I
+especially enjoyed math and physics throughout my early high school years. As
+a junior in high school I enrolled in an intro to computer science class as
+one of my tech electives and I there realized what my true passion was. I
+began learning JAVA as my first language and always had fun even programming
+really basic projects we were assigned in that class. I felt like I got a type
+of satisfaction from compiling code with no errors that constantly kept me
+motivated and wanting more. It has now been 4 years since then and I know for
+certain I made the right decision in pursuing a software degree, I have made
+numerous programs since my first one as a high school junior and yet every time
+I create a program that runs as intended I feel that same satisfaction I did when
+I successfully ran my first program.
+## Socials
+**Email**:\
+<a href="mailto:aziz.zo@northeastern.edu">aziz.zo@northeastern.edu</a>\
+\
+**GitHub**:\
+<a href="https://github.com/zohebaziz">https://github.com/zohebaziz</a>\
+\
+**Linkdin**:\
+<a href="https://www.linkedin.com/in/zoheb-aziz-10a768172/">
+https://www.linkedin.com/in/zoheb-aziz-10a768172/</a>\
