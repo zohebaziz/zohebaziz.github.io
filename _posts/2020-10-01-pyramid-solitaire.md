@@ -4,7 +4,9 @@ title:      Pyramid Solitaire
 author:     Zoheb Aziz
 categories: Projects
 ---
-![Basic](/assets/BPS.png)
+<p>
+    <img src="/assets/BPS.png" width="220" height="240" />
+</p>
 
 <!--excerpt-->
 
