@@ -53,6 +53,7 @@ support command line arguments and be runnable as a .jar application.
   <l1>Command Line Arguments</li>
   <li>Testing and Debugging</li>
 </ul>
+\
 ## Try It Out + How to Play
 A downloadable .jar file of the game is included [here](/assets/pyramidsolitaire.jar).
 One of 3 game modes can be selected using any of the following as the first
