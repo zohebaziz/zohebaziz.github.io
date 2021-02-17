@@ -5,7 +5,7 @@ permalink:  /about/
 ---
 ## Introduction
 Hi! My name is Zoheb Aziz. I am second year Computer Science and Mathematics
-major at Northeastern University. I was born in Long Island, New York and I
+major at Northeastern University. I was born in Long Island, New York, and I
 grew up in Grapevine, Texas.
 ## Hobbies, Interests and Activities
 My main hobby revolves around watching and playing various sports. I love to
