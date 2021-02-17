@@ -49,8 +49,8 @@ support command line arguments and be runnable as a .jar application.
 ## Key Takeaways
 <ul>
   <li>MVC Pattern</li>
-  <l1>Factory Classes</li>
-  <l1>Command Line Arguments</li>
+  <li>Factory Classes</li>
+  <li>Command Line Arguments</li>
   <li>Testing and Debugging</li>
 </ul>
 \
