@@ -29,12 +29,10 @@ rather than Markdown commands. The last step was to host the site, GitHub Pages
 ended up becoming my go to since all of the code was already up on GitHub and
 Pages was easy to work with.
 ## Key Takeaways
-<ul>
-  <li>Jekyll</li>
-  <li>basic HTML/CSS</li>
-  <l1>Git/Github Pages</li>
-</ul>
-\
+* Jekyll
+* Basic HTML/CSS
+* Git/Github Pages  
+
 ## Source Code
 Source code is available here:\
 <a href="https://github.com/zohebaziz/zohebaziz.github.io">https://github.com/zohebaziz/zohebaziz.github.io</a>
