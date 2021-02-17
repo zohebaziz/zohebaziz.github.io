@@ -47,13 +47,10 @@ were implemented through the use of a second model and a second view. Lastly a
 factory class and a main class were implemented so that the application would
 support command line arguments and be runnable as a .jar application.
 ## Key Takeaways
-<ul>
-  <li>MVC Pattern</li>
-  <li>Factory Classes</li>
-  <li>Command Line Arguments</li>
-  <li>Testing and Debugging</li>
-</ul>
-\
+* MVS Pattern
+* Factory Classes
+* Command Line Arguments
+* Testing and Debugging
 ## Try It Out + How to Play
 A downloadable .jar file of the game is included [here](/assets/pyramidsolitaire.jar).
 One of 3 game modes can be selected using any of the following as the first
