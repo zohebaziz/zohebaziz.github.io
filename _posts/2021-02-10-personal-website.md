@@ -21,13 +21,19 @@ included some of my socials in my "About Me" page as well as a "Contact Me" page
 that will send a message to my Email.
 ## Creation
 This website was created using the Ruby Gem: Jekyll. Jekyll allowed me to
-pick a pre created theme and easily start adding my own pages and posts through
+pick a pre-made theme and easily start adding my own pages and posts through
 files written in Markdown. In making some of these posts I had to learn some
 basic HTML as Markdown accepts raw HTML code and features like creating lists or
 uploading media to my webpages tended to work a lot better when I used HTML code
 rather than Markdown commands. The last step was to host the site, GitHub Pages
 ended up becoming my go to since all of the code was already up on GitHub and
 Pages was easy to work with.
+## Key Takeaways
+<ul>
+  <li>Jekyll</li>
+  <li>basic HTML/CSS</li>
+  <l1>Git/Github Pages</li>
+</ul>
 ## Source Code
 Source code is available here:\
 <a href="https://github.com/zohebaziz/zohebaziz.github.io">https://github.com/zohebaziz/zohebaziz.github.io</a>
